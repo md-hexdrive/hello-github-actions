@@ -1,6 +1,6 @@
 name: "Hello Actions"
 decription: "Greet Someone"
-author: "md-hexdrive"
+author: "octocat@github.com"
 
 inputs:
   MY_NAME:
